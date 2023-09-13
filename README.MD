@@ -21,9 +21,19 @@
 ##### 2. Functional parameters
 
 - [x] Introduction
+
+###### Positional and keyword arguments
 - [x] Positional arguments
 - [x] Keyword arguments
+
+
+###### Unpacking
 - [x] Unpacking Iterables
 - [x] Unpacking sets and dictionaris
 - [x] Applications of unpacking - 1
-- [x] The use of  * operator
+
+###### Extended Unpacking
+- [x] Use of  * operator
+- [x] Use of  * operator with unordered types
+- [x] Use of  ** operator
+- [x] Nested unpacking
