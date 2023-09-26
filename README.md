@@ -37,3 +37,8 @@
 - [x] Use of  * operator with unordered types
 - [x] Use of  ** operator
 - [x] Nested unpacking
+
+###### function argumants
+- [x] *args
+- [x] **kwargs
+- [x] Lambda expressions
