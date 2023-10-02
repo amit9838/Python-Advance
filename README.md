@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-##### 1. Variables and memory
+##### 1. [Variables and memory](https://github.com/amit9838/Python-Advance/blob/master/Variables_Memory/variables_memory.ipynb)
 
 - [x] Variable and memory references
 - [x] Reference counting
@@ -18,13 +18,18 @@
 - [x] Python optimizations : String Interning
 - [x] Python optimizations : Peephole
 
+
+
 ##### 2. Functional parameters
+Function Intro,
+Unpacking->
+[link](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 
 - [x] Introduction
 
 ###### Positional and keyword arguments
-- [x] Positional arguments
-- [x] Keyword arguments
+- [x] [Positional arguments](https://github.com/amit9838/Python-Advance/blob/master/Functions/args.ipynb)
+- [x] [Keyword arguments](https://github.com/amit9838/Python-Advance/blob/master/Functions/kwargs.ipynb)
 
 
 ###### Unpacking
@@ -38,7 +43,7 @@
 - [x] Use of  ** operator
 - [x] Nested unpacking
 
-###### function argumants
-- [x] *args
-- [x] **kwargs
-- [x] Lambda expressions
+###### Function
+- [x] [*args,**kwargs](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
+- [x] [Lambda expressions](https://github.com/amit9838/Python-Advance/blob/master/Functions/lambda_functions.ipynb)
+- [x] [Function Introspection](https://github.com/amit9838/Python-Advance/blob/master/Functions/function_introspection.ipynb)
