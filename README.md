@@ -46,7 +46,8 @@ Unpacking->
 ###### Function
 - [x] [*args,**kwargs](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 - [x] [Lambda expressions](https://github.com/amit9838/Python-Advance/blob/master/Functions/lambda_functions.ipynb)
+- [x] [Map, Filter, Zip, List Comprehension](https://github.com/amit9838/Python-Advance/blob/master/Functions/map_filter_zip_list-comprehension.ipynb)
 - [x] [Function Introspection](https://github.com/amit9838/Python-Advance/blob/master/Functions/function_introspection.ipynb)
 - [x] [Reducers](https://github.com/amit9838/Python-Advance/blob/master/Functions/reduce.ipynb)
 - [x] [Partial](https://github.com/amit9838/Python-Advance/blob/master/Functions/partials.ipynb)
-- [ ] [Operator Module]()
+- [ ] Operator Module
