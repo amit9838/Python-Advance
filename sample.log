@@ -1,0 +1,174 @@
+2023-10-08 17:09:07,935 - __main__ - DEBUG : Sub 2-3: -1
+2023-10-08 17:09:07,936 - __main__ - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:21:47,757 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:21:47,757 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:21:47,761 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:21:47,761 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:44:49,648 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:44:49,648 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:44:49,653 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:44:49,653 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:44:53,787 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:44:53,787 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:44:53,790 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:00,800 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:00,801 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:00,806 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:00,807 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:45:06,214 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:06,214 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:06,219 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:30,461 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:30,461 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:30,466 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:30,468 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:45:41,543 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:41,543 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:41,547 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:45,652 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:45,652 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:45,660 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:45,662 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:45:59,349 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:45:59,349 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:45:59,354 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:45:59,355 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:46:02,936 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:46:02,937 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:46:02,941 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:46:02,942 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:46:08,061 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:46:08,062 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:46:08,068 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:46:08,070 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:46:12,251 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:46:12,251 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:46:12,255 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:46:12,256 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:46:21,565 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:46:21,565 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:46:21,571 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:46:21,572 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:47:15,413 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:47:15,414 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:47:15,418 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:47:15,419 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:47:29,974 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:47:29,974 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:47:29,978 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:47:29,979 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:47:35,306 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:47:35,306 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:47:35,316 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:47:53,020 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:47:53,020 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:47:53,024 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:47:53,025 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:48:11,346 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:48:11,347 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:48:11,354 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:48:11,356 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
+2023-10-08 17:48:15,102 - logging_2 - DEBUG : Sub 2-3: -1
+2023-10-08 17:48:15,102 - logging_2 - ERROR : Tried division by zero
+Traceback (most recent call last):
+  File "/home/amit/Drive-D/Code/Python/Advance Python/logging_2.py", line 22, in div
+    return a/b
+          ~^~
+ZeroDivisionError: division by zero
+2023-10-08 17:48:15,106 - __main__ - DEBUG : Add 2,3: 5
+2023-10-08 17:48:15,107 - __main__ - INFO : {'collections_added': 5, 'total_items_addedd': 6}
