@@ -51,3 +51,11 @@ Unpacking->
 - [x] [Reducers](https://github.com/amit9838/Python-Advance/blob/master/Functions/reduce.ipynb)
 - [x] [Partial](https://github.com/amit9838/Python-Advance/blob/master/Functions/partials.ipynb)
 - [ ] Operator Module
+
+###### Scopes
+- [x] Global Scopes
+- [ ] Non Local Scopes
+
+###### Decorators
+- [x] Decorators Basics
+- [x] Decorator Applications 1
