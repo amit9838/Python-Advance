@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-##### 1. [Variables and memory](https://github.com/amit9838/Python-Advance/blob/master/Variables_Memory/variables_memory.ipynb)
+##### Variables and memory : [Go](https://github.com/amit9838/Python-Advance/blob/master/Variables_Memory/variables_memory.ipynb)
 
 - [x] Variable and memory references
 - [x] Reference counting
@@ -20,24 +20,21 @@
 
 
 
-##### 2. Functional parameters
-Function Intro,
-Unpacking->
-[link](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
+##### Functional parameters
 
-- [x] Introduction
+- [x] [Introduction](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 
 ###### Positional and keyword arguments
 - [x] [Positional arguments](https://github.com/amit9838/Python-Advance/blob/master/Functions/args.ipynb)
 - [x] [Keyword arguments](https://github.com/amit9838/Python-Advance/blob/master/Functions/kwargs.ipynb)
 
 
-###### Unpacking
+###### Unpacking : [Go](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 - [x] Unpacking Iterables
 - [x] Unpacking sets and dictionaris
 - [x] Applications of unpacking - 1
 
-###### Extended Unpacking
+###### Extended Unpacking : [Go](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 - [x] Use of  * operator
 - [x] Use of  * operator with unordered types
 - [x] Use of  ** operator
@@ -53,8 +50,8 @@ Unpacking->
 - [ ] Operator Module
 
 ###### Scopes
-- [x] Global Scopes
-- [ ] Non Local Scopes
+- [x] [Local-Global Scopes](https://github.com/amit9838/Python-Advance/blob/master/Scopes/local-global_scope.ipynb)
+- [ ] [Non Local Scopes](https://github.com/amit9838/Python-Advance/blob/master/Scopes/non-local%20scopes.ipynb)
 
 ###### Decorators
 - [x] [Decorators Basics](https://github.com/amit9838/Python-Advance/blob/master/Decorators/decorators_p1.ipynb)
