@@ -57,7 +57,7 @@ Unpacking->
 - [ ] Non Local Scopes
 
 ###### Decorators
-- [x] Decorators Basics
-- [x] Decorator Application (Timer)
-- [x] Decorator Application (Logger, Stacked Decorator)
-- [x] Decorator Application (Memoiation)
+- [x] [Decorators Basics](https://github.com/amit9838/Python-Advance/blob/master/Decorators/decorators_p1.ipynb)
+- [x] [Decorator Application (Timer)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-timer.ipynb)
+- [x] [Decorator Application (Logger, Stacked Decorator)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-logger-stacked_decorator.ipynb)
+- [x] [Decorator Application (Memoiation)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-memoiation.ipynb)
