@@ -58,4 +58,6 @@ Unpacking->
 
 ###### Decorators
 - [x] Decorators Basics
-- [x] Decorator Applications 1
+- [x] Decorator Application (Timer)
+- [x] Decorator Application (Logger, Stacked Decorator)
+- [x] Decorator Application (Memoiation)
