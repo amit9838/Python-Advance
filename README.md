@@ -59,10 +59,17 @@
 - [x] [Decorator Application (Logger, Stacked Decorator)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-logger-stacked_decorator.ipynb)
 - [x] [Decorator Application (Memoiation)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-memoiation.ipynb)
 
-###### Thread
+###### Thread [go](https://github.com/amit9838/Python-Advance/tree/master/Thread)
 
-###### Logging
+###### Logging [Go](https://github.com/amit9838/Python-Advance/tree/master/Logging)
 
 ###### Modules and packages
+- [x] [basics](https://github.com/amit9838/Python-Advance/blob/master/Modules-Packages/basics.ipynb)
+- [x] [How python imports module](https://github.com/amit9838/Python-Advance/blob/master/Modules-Packages/how_python_imports.ipynb)
+- [x] [Example 1](https://github.com/amit9838/Python-Advance/tree/master/Modules-Packages/Example1)
+- [x] [Example 2](https://github.com/amit9838/Python-Advance/tree/master/Modules-Packages/Example2)
 
 ###### Sequence
+- [x] [Sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/Sequence_types.ipynb)
+
+- [x] [Mutable sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/mutable_sequence_type.ipynb)
