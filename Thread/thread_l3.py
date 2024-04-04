@@ -1,3 +1,7 @@
+# Creating Multiple threads
+# Also learn the dependency of a thread on other thread
+# Dependency: Lets's say thread1 returns weather data from api, and thread2 is going to 
+# need that data for some calculation 
 import threading
 import time
 
@@ -24,7 +28,8 @@ my_thread = MyThread(target=my_function)
 # Start the thread
 my_thread.start()
 
-# Wait for the thread to finish
+# Wait for the thread to finish 
+# this can be used to block the further executuion untill this thread finishes its work
 my_thread.join()
 
 # Get the result from the thread

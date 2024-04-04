@@ -60,8 +60,14 @@
 - [x] [Decorator Application (Memoiation)](https://github.com/amit9838/Python-Advance/blob/master/Decorators/applications-memoiation.ipynb)
 
 ###### Thread [go](https://github.com/amit9838/Python-Advance/tree/master/Thread)
+- [x] Introduction
+- [x] Normal execution vs Thread based execution
+- [x] Thread dependency
 
 ###### Logging [Go](https://github.com/amit9838/Python-Advance/tree/master/Logging)
+- [x] Logging basics
+- [x] Use log with exception
+- [x] Configure log
 
 ###### Modules and packages
 - [x] [basics](https://github.com/amit9838/Python-Advance/blob/master/Modules-Packages/basics.ipynb)
@@ -71,5 +77,4 @@
 
 ###### Sequence
 - [x] [Sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/Sequence_types.ipynb)
-
 - [x] [Mutable sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/mutable_sequence_type.ipynb)
