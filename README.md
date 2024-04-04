@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-##### Variables and memory : [Go](https://github.com/amit9838/Python-Advance/blob/master/Variables_Memory/variables_memory.ipynb)
+###### Variables and memory : [Go](https://github.com/amit9838/Python-Advance/blob/master/Variables_Memory/variables_memory.ipynb)
 
 - [x] Variable and memory references
 - [x] Reference counting
@@ -20,7 +20,7 @@
 
 
 
-##### Functional parameters
+###### Functional parameters
 
 - [x] [Introduction](https://github.com/amit9838/Python-Advance/blob/master/Functions/functional_parameters.ipynb)
 
