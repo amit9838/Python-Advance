@@ -78,3 +78,4 @@
 ###### Sequence
 - [x] [Sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/Sequence_types.ipynb)
 - [x] [Mutable sequence types](https://github.com/amit9838/Python-Advance/blob/master/Sequence/mutable_sequence_type.ipynb)
+- [x] [List vs Tuple](https://github.com/amit9838/Python-Advance/blob/master/Sequence/list_vs_tuple.ipynb)
